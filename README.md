@@ -4,9 +4,17 @@ I developed this tool at RockeatSeat's Artificial Intelligence NLW, for three da
 
 <img src='interface.png'>
 
-✅ Acess the project here:
+## ✅ How to use:
 
-> linkaindanaodisponivel
+- You need to have NPM or YARN to download the dependencies, after that type the following command in your IDE:
+  > npm install
+- After that, in a terminal, type the command:
+  > npm run server
+- Open another terminal and type the command:
+
+  > npm run web
+
+- A "localhost" link will appear to access the website
 
 ## 📚 New Learnings
 
